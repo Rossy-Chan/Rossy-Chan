@@ -18,8 +18,8 @@
   <a href="https://api.whatsapp.com/send/?phone=94759874797&text=haloo%3Av&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
      <br><a name=Rossy-Chan=VIEWS&style=flat-square&color=green" />
   <a href="https://github.com/Rossy-Chan"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-       <a name=dragneel1111&label=VIEWS&style=flat-square&color=green" /></br>
-  <a href="https://komarev.com/ghpvc/?username=dragneel1111&color=blue&style=flat-square&label=Profile+Views">
+       <a name=Rossy-Chan&label=VIEWS&style=flat-square&color=green" /></br>
+  <a href="https://komarev.com/ghpvc/?username=Rossy-Chan&color=blue&style=flat-square&label=Profile+Views">
     <img title="Watching" src="https://komarev.com/ghpvc/?username=Rossy-Chan&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
@@ -44,6 +44,6 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rossy-Chan)
 
 </details>
