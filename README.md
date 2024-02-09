@@ -1,4 +1,4 @@
-<h1 align="center">##Hello There...<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" width="40px" alt=""><br></h1>
+<h1 align="center">//Hello There...<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" width="40px" alt=""><br></h1>
 
 <p align="center">
     <img src="https://cdn.bhdw.net/im/beautiful-anime-girl-with-blue-hair-posing-with-butterflies-wallpaper-109598_w635.webp" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -8,7 +8,7 @@
 
 - 👼 My name is Ayodhya
 - 🗣️ I am 16 years old 
-- 🔭 I am ...readmore
+- 🔭 Be a Good Developer
 
 </p>
 
@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
-</p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
