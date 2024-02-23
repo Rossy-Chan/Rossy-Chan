@@ -7,8 +7,8 @@
 <p align="center">
 
 - 👼 My name is Ayodhya
-- 🗣️ I am 16 years old 
-- 🔭 Be a Good Developer
+- 🗣️ I am 17 years old
+- 🗣️ CTRL+C AND CTRL+V
 
 </p>
 
