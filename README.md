@@ -1,7 +1,7 @@
 <h1 align="center">//Hello There...<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" width="40px" alt=""><br></h1>
 
 <p align="center">
-    <img src="https://cdn.bhdw.net/im/beautiful-anime-girl-with-blue-hair-posing-with-butterflies-wallpaper-109598_w635.webp" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://github.com/images/modules/search/dark.png" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <p align="center">
