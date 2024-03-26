@@ -1,12 +1,11 @@
-<h1 align="center">##hey there im using github...<video src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" width="40px" alt=""><br></h1>
+//hloooow
 
 <p align="center">
     <img src="https://github.com/images/modules/search/dark.png" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-------
 
+------
 <p align="center">
-    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Revolution&weight=900&size=25&duration=6000&pause=1000&color=F729AE&background=FF6DD013&center=true&vCenter=true&random=true&width=433&height=93&lines=My+name+is+ayodhya+vichakshana;follow+me+on+instagram;contact+me+on+whatsapp+++++++++++++++++++++++)](https://git.io/typing-svg)
 
 </p>
